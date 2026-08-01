@@ -3,12 +3,12 @@
 #### This is the simple repo I created for the understanding of git fundaments.
 
 
-** Team Members **
+**Team Members**
 - Maulik Patel
 - Ritvik
 - Adarsh
 
-** Tech Stack **
+**Tech Stack**
 
 1. HTML
 2. CSS
